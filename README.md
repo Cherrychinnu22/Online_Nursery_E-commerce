@@ -24,4 +24,4 @@ This is a fully functional Online Nursery E-commerce Website built using HTML, C
 3. Move the project folder to `htdocs` inside your XAMPP installation directory.
 4. Start Apache and MySQL from the XAMPP control panel.
 5. Open your browser and go to:
-http://localhost/online-nursery-ecommerce/
+http://localhost/ecommerce/pages/login.php
